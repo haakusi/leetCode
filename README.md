@@ -4,5 +4,5 @@
 - To use python, c++ language
 - Do the best now!
 
-<b> If u have some question send me email : haakusi@g.skku.edu <b>
+<b> If u have some question send me email : haakusi@g.skku.edu <b><br>
 <b> Thanks! <b>
